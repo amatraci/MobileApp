@@ -18,7 +18,7 @@ npm install
 npx expo start
 ```
 
-## 🔑 Konfigurimi i Firebase
+## Konfigurimi i Firebase
 1. Krijo një projekt në [Firebase Console](https://console.firebase.google.com/).
 2. Shto kredencialet e projektit në `firebase.js`.
 3. Aktivizo **GitHub Provider** në *Authentication → Sign-in method*.
